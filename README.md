@@ -1,19 +1,15 @@
-## Hi there 👋
-
-<!--
-**sanketpawar113/sanketpawar113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!-- Profile GIF -->
 <p align="center">
-  <img src="https://i.imgur.com/71v1qVv.gif" width="350"/>
+  <img src="https://i.imgur.com/71v1qVv.gif" width="330"/>
 </p>
 
-<h1 align="center">Sanket Prashant Pawar</h1>
-<h3 align="center">Full Stack Developer | MERN Stack | Web Application Developer</h3>
+<h1 align="center">Hi, I'm Sanket Prashant Pawar 👋</h1>
+<h3 align="center">Full Stack Developer | MERN Stack | Web App Developer</h3>
 
 <p align="center">
   <a href="mailto:pawarsanket229@gmail.com">📧 Email</a> •
   <a href="tel:+917517799275">📱 7517799275</a> •
-  <a href="#">📍 Nanded, Maharashtra</a> •
+  <a>📍 Nanded, Maharashtra</a> •
   <a href="https://github.com/sanketpawar113">👨‍💻 GitHub</a> •
   <a href="https://www.linkedin.com/in/sanketpawar113">🔗 LinkedIn</a>
 </p>
@@ -24,68 +20,68 @@
 
 ---
 
-# 🛠️ Skills  
+## 🛠️ Skills
 
 ### **⚡ Technical Skills**
 - **Frontend:** React.js, HTML5, CSS3, JavaScript, Tailwind CSS, Bootstrap, EJS  
-- **Backend:** Node.js, Express.js, REST APIs, Mongoose  
-- **Database:** MongoDB, MySQL  
+- **Backend:** Node.js, Express.js, REST APIs, JWT Authentication  
+- **Database:** MongoDB, MySQL, Mongoose  
 - **Tools:** Git, GitHub, Postman  
-- **Other:** API Integration, MVC Architecture
+- **Other:** API Integration, MVC Architecture, Responsive Design  
 
 ### **🤝 Soft Skills**
-Communication • Teamwork • Time Management • Adaptability • Collaboration
+Communication • Teamwork • Time Management • Adaptability • Problem Solving
 
 ---
 
-# 💼 Work Experience  
+## 💼 Work Experience  
 
-## **Frontend Developer Intern — MEADOW AGRICULTURE Pvt Ltd**  
-📅 *Jun 2025 – Jul 2025*  
+### **Frontend Developer Intern — Meadow Agriculture Pvt. Ltd**  
+📅 *June 2025 – July 2025*  
 **Tech Used:** HTML/CSS, React.js, JavaScript, Tailwind CSS  
 
-- Developed responsive UI screens using **React, JavaScript & Tailwind CSS**.  
-- Enhanced performance and UI flow, increasing user engagement by **25%**.  
-- Collaborated with backend team for smooth API integration.  
-- Delivered tasks with precision, accountability, and strong team coordination.
+- Built responsive UIs using **React + Tailwind**, improving mobile experience.  
+- Enhanced UI performance, resulting in **25% faster user interaction flow**.  
+- Collaborated with backend team for efficient data handling and API integration.  
+- Delivered high-quality features with strong teamwork and accountability.
 
 ---
 
-# 🚀 Technical Projects  
+## 🚀 Technical Projects  
 
-## **GO-TRAVEL — Full-Stack Travel Booking Website**  
-📅 *2025*  
-**Tech:** Node.js, Express.js, EJS, MongoDB, HTML/CSS, JavaScript, REST APIs  
+### **GO-TRAVEL — Full-Stack Travel Booking Website**  
+📅 2025  
+**Tech:** Node.js, Express.js, EJS, MongoDB, JavaScript, REST APIs  
 
-🔗 **[GitHub Repository](https://github.com/sanketpawar113/GO-TRAVEL)**  
-🔗 **[Live Demo](https://go-travel-z5qh.onrender.com/listings)**  
+🔗 **Live Demo:** https://go-travel-z5qh.onrender.com/listings  
+🔗 **GitHub Repo:** https://github.com/sanketpawar113/GO-TRAVEL  
 
 - Built a complete travel booking system using **Node.js + Express + EJS**.  
-- Implemented efficient REST APIs enabling optimized CRUD operations.  
-- Improved performance significantly — **40% faster load speed** and **30% reduced server load**.  
-- Achieved **55% better user interaction** with enhanced UI/UX and responsive design.
+- Designed scalable REST APIs for listings & reviews, improving interaction speed by **55%**.  
+- Optimized backend queries resulting in **40% faster load speed** and **30% reduced server load**.  
+- Implemented clean UI with personalized user experience.
 
 ---
 
-# 📊 GitHub Stats (Dark Theme)
+## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanketpawar113&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpawar113&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sanketpawar113&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanketpawar113&layout=compact&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketpawar113&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanketpawar113&theme=radical" height="160"/>
 </p>
 
 ---
 
-# 📄 Resume  
-🎯 **[Click here to Download Resume](https://d3s27eh1wskpwv.cloudfront.net/placement/verification_photosd80a6039-e95e-46c0-86a1-3d720f4aa6cb.pdf)**
+## 📄 Resume  
+📥 **[Download My Resume](https://d3s27eh1wskpwv.cloudfront.net/placement/verification_photosd80a6039-e95e-46c0-86a1-3d720f4aa6cb.pdf)**
 
 ---
 
-# 🤝 Connect With Me  
+## 🤝 Connect With Me  
 
 - **GitHub:** https://github.com/sanketpawar113  
 - **LinkedIn:** https://www.linkedin.com/in/sanketpawar113  
@@ -95,15 +91,3 @@ Communication • Teamwork • Time Management • Adaptability • Collaboratio
 ---
 
 <p align="center">✨ Thanks for visiting! Feel free to explore my repositories ✨</p>
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
