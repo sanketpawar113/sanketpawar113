@@ -1,8 +1,4 @@
 <!-- Profile GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/71v1qVv.gif" width="330"/>
-</p>
-
 <h1 align="center">Hi, I'm Sanket Prashant Pawar 👋</h1>
 <h3 align="center">Full Stack Developer | MERN Stack | Web App Developer</h3>
 
