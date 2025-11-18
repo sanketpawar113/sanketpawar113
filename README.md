@@ -1,9 +1,5 @@
 <!-- Banner GIF -->
-<p align="center">
-  <img src="https://i.imgur.com/71v1qVv.gif" width="400" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Sanket Prashant Pawar</h1>
+  <h1 align="center">Hi 👋, I'm Sanket Prashant Pawar</h1>
 <h3 align="center">Full-Stack Web Developer | MERN Stack | Clean UI Lover</h3>
 
 <p align="center">
@@ -23,8 +19,8 @@
 I am a passionate **Full-Stack Web Developer** specializing in building scalable backend systems and beautiful, user-friendly frontend interfaces.
 
 - 🔭 Currently working on: Full-stack Node + Mongo + React projects  
-- 🌱 Learning: System Design, Next.js & Cloud Deployment  
-- 👯 Open for: MERN, APIs, Microservices, Freelance projects  
+- 🌱 Learning: TypeScript, React.js & Cloud Deployment  
+- 👯 Open for: Full-Stack,  MERN, APIs, 
 - 📫 Reach me at: **pawarsanket229@gmail.com**
 
 ---
@@ -42,7 +38,6 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 ## **🎨 Frontend**
 <p>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?logo=mui&logoColor=white&style=for-the-badge" />
@@ -58,16 +53,6 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 ## **🗄 Database**
 <p>
   <img src="https://img.shields.io/badge/MongoDB-10AA50?logo=mongodb&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prisma-0C344B?logo=prisma&logoColor=white&style=for-the-badge" />
-</p>
-
-## **🛠 Tools**
-<p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GitHub-121013?logo=github&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
 </p>
 
 ---
