@@ -91,8 +91,9 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
   <img src="https://img.shields.io/badge/Chrome_DevTools-F4B400?logo=googlechrome&logoColor=white&style=for-the-badge" />
 </p>
 
+<hr/>
+
 <h1 align="center">⭐ Featured Projects</h1>
----
 ### 🔹 GO-TRAVEL – Full-Stack Travel Platform  
 
 **Tech:** Node.js, Express, MongoDB, EJS, Bootstrap  
