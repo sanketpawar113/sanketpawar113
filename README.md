@@ -16,11 +16,14 @@
 
 ## 🙋🏻 About Me  
 
-I am a passionate **Full-Stack Web Developer** specializing in building scalable backend systems and beautiful, user-friendly frontend interfaces.
+I am a **Full-Stack MERN Developer** focused on building **scalable, secure, and production-ready web applications**.
 
-- 🔭 Currently working on: Full-stack Node + Mongo + React projects  
-- 🌱 Learning: TypeScript, React.js & Cloud Deployment  
-- 👯 Open for: Full-Stack,  MERN, APIs, 
+- 💻 Strong in backend engineering (Node.js, Express, API design)
+- 🔐 Experienced in authentication, authorization & API security
+- 🧪 Writing unit & integration tests using Jest
+- ⚡ Passionate about clean architecture, performance & real-world problem solving
+- 🚀 Deploying applications using Vercel & Render
+📌 Currently focused on improving **system design & backend scalability**
 - 📫 Reach me at: **pawarsanket229@gmail.com**
 
 ---
