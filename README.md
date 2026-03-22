@@ -96,7 +96,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 - **LinkedIn:** https://www.linkedin.com/in/sanketpawar113  
 - **Email:** **pawarsanket229@gmail.com**  
 - **Phone:** 7517799275  
-- **Resume (PDF):** [Click to Download]()
+- **Resume (PDF):** [Click to Download](https://drive.google.com/file/d/15hd4aEFWF0bDpyEahZlcJFc9qc2vs7zO/view?usp=sharing)
 
 ---
 
