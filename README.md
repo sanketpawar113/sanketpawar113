@@ -45,10 +45,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 <p>
   <img src="https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JWT_Auth-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Redis-D82C20?logo=redis&logoColor=white&style=for-the-badge" />
 </p>
 
 <h3>🔗 APIs & Networking</h3>
