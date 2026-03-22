@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 About Me  
+##🙋🏻 About Me  
 I am a passionate **Full-Stack Web Developer** specializing in building scalable backend systems and beautiful, user-friendly frontend interfaces.
 
 - 🔭 Currently working on: Full-stack Node + Mongo + React projects  
@@ -50,7 +50,6 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
   <img src="https://img.shields.io/badge/MVC_Architecture-6A5ACD?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Error_Handling-FF5733?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Input_Validation-FFC300?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/API_Security-8E44AD?style=for-the-badge" />
 </p>
 
 <h3>🗄 Database Management</h3>
@@ -94,10 +93,10 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 <hr/>
 
 <h1 align="center">⭐ Featured Projects</h1>
+
 ### 🔹 GO-TRAVEL – Full-Stack Travel Platform  
 
 **Tech:** Node.js, Express, MongoDB, EJS, Bootstrap  
-
 ✔ Designed RESTful APIs with proper MVC architecture  
 ✔ Implemented secure authentication using JWT  
 ✔ Built dynamic listing & review system with optimized database queries  
@@ -106,10 +105,11 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 
 🔗 LIVE: https://go-travel-z5qh.onrender.com/listings  
 🔗 CODE: https://github.com/sanketpawar113/GO-TRAVEL  
+
+
 ---
 
 ### 🔹 Interactive Note App  
-
 ✔ Developed full-stack CRUD application with authentication  
 ✔ Implemented clean UI with responsive design  
 ✔ Structured backend with Express & MongoDB  
@@ -120,7 +120,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 
 ---
 
-# 📊 GitHub Stats (Dark Theme)
+# 📊 GitHub Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanketpawar113&show_icons=true&theme=radical" height="150"/>
