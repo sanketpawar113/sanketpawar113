@@ -99,8 +99,8 @@ I am a **Full-Stack MERN Developer** focused on building **scalable, secure, and
 <h1 align="center">⭐ Featured Projects</h1>
 
 ### 🔹 GO-TRAVEL – Full-Stack Travel Platform  
-
 **Tech:** Node.js, Express, MongoDB, EJS, Bootstrap  
+
 ✔ Designed RESTful APIs with proper MVC architecture  
 ✔ Implemented secure authentication using JWT  
 ✔ Built dynamic listing & review system with optimized database queries  
@@ -114,6 +114,8 @@ I am a **Full-Stack MERN Developer** focused on building **scalable, secure, and
 ---
 
 ### 🔹 Interactive Note App  
+**Tech:** Node.js, Express, MongoDB, EJS, Bootstrap  
+
 ✔ Developed full-stack CRUD application with authentication  
 ✔ Implemented clean UI with responsive design  
 ✔ Structured backend with Express & MongoDB  
