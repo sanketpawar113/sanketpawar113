@@ -74,7 +74,6 @@ I am a **Full-Stack MERN Developer** focused on building **scalable, secure, and
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Integration_Testing-FF9800?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Test_Coverage-2ECC71?style=for-the-badge" />
 </p>
 
 <h3>☁️ Deployment & DevOps</h3>
