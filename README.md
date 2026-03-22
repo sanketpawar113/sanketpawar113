@@ -14,7 +14,8 @@
 
 ---
 
-##🙋🏻 About Me  
+## 🙋🏻 About Me  
+
 I am a passionate **Full-Stack Web Developer** specializing in building scalable backend systems and beautiful, user-friendly frontend interfaces.
 
 - 🔭 Currently working on: Full-stack Node + Mongo + React projects  
