@@ -23,7 +23,7 @@ I am a **Full-Stack MERN Developer** focused on building **scalable, secure, and
 - 🧪 Writing unit & integration tests using Jest
 - ⚡ Passionate about clean architecture, performance & real-world problem solving
 - 🚀 Deploying applications using Vercel & Render
-📌 Currently focused on improving **system design & backend scalability**
+- 📌 Currently focused on improving **system design & backend scalability**
 - 📫 Reach me at: **pawarsanket229@gmail.com**
 
 ---
