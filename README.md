@@ -9,8 +9,7 @@
 <p align="center">
   <a href="mailto:pawarsanket229@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/sanketpawar113">💼 LinkedIn</a> •
-  <a href="https://github.com/sanketpawar113">👨‍💻 GitHub</a> •
-  <a href="#">📄 Download Resume</a>
+  <a href="https://drive.google.com/file/d/15hd4aEFWF0bDpyEahZlcJFc9qc2vs7zO/view?usp=sharing">📄 Download Resume</a>
 </p>
 
 ---
@@ -74,7 +73,7 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 ✔ Add / Delete / Complete tasks  
 ✔ Smooth UI animations  
 🔗 **LIVE:** https://noteapp-tkj2.onrender.com/login  
-🔗 **CODE:** https://github.com/sanketpawar113/note-app  
+🔗 **CODE:** https://github.com/sanketpawar113/NoteApp  
 
 ---
 
