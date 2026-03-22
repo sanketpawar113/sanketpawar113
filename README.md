@@ -68,8 +68,8 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 
 ---
 
-### 🔹 **Interactive TO-DO List**
-**Tech:** Node.js, Express, EJS, MongoDB, Bootstrap 
+### 🔹 **Interactive NoteApp**
+**Tech:** Node.js, Express, EJS, MongoDB, Bootstrap
 ✔ Add / Delete / Complete tasks  
 ✔ Smooth UI animations  
 🔗 **LIVE:** https://noteapp-tkj2.onrender.com/login  
