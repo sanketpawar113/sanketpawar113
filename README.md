@@ -48,6 +48,12 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
   <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" />
 </p>
 
+<h3>🔗 APIs & Networking</h3>
+<p> <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge" /> <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge" /> </p>
+
+<h3>🧪 Testing & Quality Assurance</h3>
+<p> <img src="https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white&style=for-the-badge" /> <img src="https://img.shields.io/badge/Unit_Testing-6DB33F?style=for-the-badge" /> <img src="https://img.shields.io/badge/Integration_Testing-FF9800?style=for-the-badge" /> </p>
+
 <h3>🗄 Database</h3>
 <p>
   <img src="https://img.shields.io/badge/MongoDB-10AA50?logo=mongodb&logoColor=white&style=for-the-badge" />
