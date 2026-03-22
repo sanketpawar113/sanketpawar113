@@ -23,7 +23,6 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
 - 📫 Reach me at: **pawarsanket229@gmail.com**
 
 ---
----
 <h1 align="center">🚀 Tech Stack & Skills</h1>
 
 <h3>🧠 Languages</h3>
@@ -91,9 +90,9 @@ I am a passionate **Full-Stack Web Developer** specializing in building scalable
   <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Chrome_DevTools-F4B400?logo=googlechrome&logoColor=white&style=for-the-badge" />
 </p>
----
-<h1 align="center">⭐ Featured Projects</h1>
 
+<h1 align="center">⭐ Featured Projects</h1>
+---
 ### 🔹 GO-TRAVEL – Full-Stack Travel Platform  
 
 **Tech:** Node.js, Express, MongoDB, EJS, Bootstrap  
