@@ -1,6 +1,6 @@
 <!-- Banner GIF -->
   <h1 align="center">Hi 👋, I'm Sanket Prashant Pawar</h1>
-<h3 align="center">Full-Stack Web Developer | MERN Stack | Clean UI Lover</h3>
+<h3 align="center">Full-Stack Web Developer | MERN Stack </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanketpawar113&label=Profile%20Views&color=blueviolet&style=flat" alt="views" />
