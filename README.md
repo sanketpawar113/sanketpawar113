@@ -43,6 +43,7 @@ const sanket: Developer = {
   name       : "Sanket Prashant Pawar",
   location   : "Pimpri, Pune 🇮🇳",
   role       : "Full-Stack MERN Developer",
+ funFact     : "I debug with console.log and I'm proud 😄",
 
   passionate : [
     "Clean Architecture",
@@ -50,10 +51,6 @@ const sanket: Developer = {
     "Real-Time Applications",
     "API Security & Design",
   ],
-
-  currentlyLearning : "System Design at Scale",
-  openToWork        : true,
-  funFact           : "I debug with console.log and I'm proud 😄",
 };
 ```
 
@@ -63,39 +60,27 @@ const sanket: Developer = {
 
 <br/>
 
-## 🛠️ Tech Arsenal
+# 🛠️ Tech Stack  
 
-<div align="center">
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-### ▸ Languages & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs&theme=dark" />
-</p>
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge)
 
-### ▸ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css&theme=dark" />
-</p>
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge)
 
-### ▸ Backend & APIs
-<p>
-  <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,nginx&theme=dark" />
-</p>
-
-### ▸ DevOps, Cloud & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,postman,vscode&theme=dark" />
-</p>
-
-### ▸ Testing
-<p>
-  <img src="https://skillicons.dev/icons?i=jest&theme=dark" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Unit%20Testing-6DB33F?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Integration%20Testing-FF9800?style=for-the-badge&logoColor=white" />
-</p>
-
-</div>
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?logo=mongodb&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)
 
 ---
 
@@ -114,8 +99,6 @@ const sanket: Developer = {
 ### 🎥 NovaMeet — Real-Time Video Conferencing App
 
 <img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
-> *A production-grade Zoom alternative — built from scratch with WebRTC & Socket.io.*
 
 ```
 🔗 Live  →  https://novameet-rust.vercel.app/
