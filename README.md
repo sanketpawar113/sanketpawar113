@@ -129,7 +129,7 @@ const sanket: Developer = {
 > *End-to-end travel listing platform — RESTful, secure, and production-deployed.*
 
 ```
-🔗 Live  →  https://go-travel-z5qh.onrender.com/listings
+🔗 Live  →  https://gostay-2.onrender.com/listings
 📦 Code  →  github.com/sanketpawar113/GO-TRAVEL
 ```
 
