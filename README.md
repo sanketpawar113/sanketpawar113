@@ -1,36 +1,18 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanket%20Pawar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20MERN%20Developer&descAlignY=58&descSize=20&descColor=a0aec0&animation=fadeIn)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+scalable+web+apps+%F0%9F%9A%80;Backend+Engineer+%7C+API+Architect;MERN+Stack+%7C+TypeScript+%7C+Docker;Open+to+exciting+opportunities+%F0%9F%92%BC" alt="Typing SVG" />
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanketpawar113)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pawarsanket229@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanketpawar113)
-[![Resume](https://img.shields.io/badge/Resume-8A2BE2?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/15hd4aEFWF0bDpyEahZlcJFc9qc2vs7zO/view?usp=sharing)
-
-<img src="https://komarev.com/ghpvc/?username=sanketpawar113&label=Profile+Views&color=0e75b6&style=flat" />
-
-</div>
-
-<br/>
-
 <!-- Banner -->
-<h1 align="center">Hi 👋, I'm Sanket Pawar</h1>
 <h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable Web Apps</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanketpawar113&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
-
 <p align="center">
   <a href="mailto:pawarsanket229@gmail.com">📧 Email</a> •
   <a href="https://www.linkedin.com/in/sanketpawar113">💼 LinkedIn</a> •
   <a href="https://drive.google.com/file/d/15hd4aEFWF0bDpyEahZlcJFc9qc2vs7zO/view">📄 Resume</a>
 </p>
-
+</div>
+<br/>
 ---
 ## 🧑‍💻 About Me  
 
