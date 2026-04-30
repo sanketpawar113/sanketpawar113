@@ -17,22 +17,33 @@
 
 <br/>
 
-## 🧑‍💻 About Me
+<!-- Banner -->
+<h1 align="center">Hi 👋, I'm Sanket Pawar</h1>
+<h3 align="center">🚀 Full-Stack MERN Developer | Building Scalable Web Apps</h3>
 
-```javascript
-const sanket = {
-  name     : "Sanket Prashant Pawar",
-  role     : "Full-Stack MERN Developer",
-  location : "Pimpri, Pune, India 🇮🇳",
-  focus    : ["Backend Engineering", "REST API Design", "Scalable Architecture"],
-  stack    : ["Node.js", "Express", "MongoDB", "React", "TypeScript"],
-  testing  : "Jest — Unit & Integration Tests",
-  devops   : ["Docker", "GitHub Actions", "Vercel", "Render"],
-  learning : "System Design & Backend Scalability",
-  email    : "pawarsanket229@gmail.com",
-  openTo   : "Full-time roles & freelance projects ✅",
-};
-```
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanketpawar113&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+<p align="center">
+  <a href="mailto:pawarsanket229@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/sanketpawar113">💼 LinkedIn</a> •
+  <a href="https://drive.google.com/file/d/15hd4aEFWF0bDpyEahZlcJFc9qc2vs7zO/view">📄 Resume</a>
+</p>
+
+---
+## 🧑‍💻 About Me  
+
+💡 I build **real-world, production-ready web applications** using the MERN stack.  
+⚡ Focused on **backend engineering, scalability & clean architecture**  
+
+- 🔥 Strong in **Node.js, Express & API Design**
+- 🔐 Experience in **Authentication & Security (JWT)**
+- ⚡ Love building **real-time apps (WebRTC, Socket.io)**
+- 🚀 Deploy apps using **Vercel & Render**
+- 📈 Currently learning **System Design & Scalability**
+
+---
 
 <br/>
 
