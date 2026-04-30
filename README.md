@@ -96,8 +96,6 @@ const sanket: Developer = {
 
 ### 🎥 NovaMeet — Real-Time Video Conferencing App
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
-
 ```
 🔗 Live  →  https://novameet-rust.vercel.app/
 📦 Code  →  github.com/sanketpawar113/novameet
@@ -124,10 +122,6 @@ const sanket: Developer = {
 
 ### ✈️ GO-TRAVEL — Full-Stack Travel Platform
 
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
-
-> *End-to-end travel listing platform — RESTful, secure, and production-deployed.*
-
 ```
 🔗 Live  →  https://gostay-2.onrender.com/listings
 📦 Code  →  github.com/sanketpawar113/GO-TRAVEL
@@ -152,8 +146,6 @@ const sanket: Developer = {
 ---
 
 ### 📝 Interactive Note App — CRUD Full-Stack App
-
-> *Clean, minimal note-taking app with full auth and responsive design.*
 
 ```
 🔗 Live  →  https://noteapp-tkj2.onrender.com/login
