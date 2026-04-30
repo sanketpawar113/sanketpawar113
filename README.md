@@ -34,7 +34,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="300" src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=28&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Real-Time+App+Builder;Backend+Engineer"/>
+<img align="right"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ```typescript
 const sanket: Developer = {
