@@ -34,7 +34,7 @@
 
 ## ⚡ About Me
 
-<img align="right"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" width="300" height="500" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```typescript
 const sanket: Developer = {
