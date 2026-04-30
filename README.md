@@ -125,6 +125,20 @@ I am a **Full-Stack MERN Developer** focused on building **scalable, secure, and
 
 ---
 
+###🔹 NovaMeet – Video Conferencing Web App
+**Tech:** React.js, Node.js, Express, Socket.io, WebRTC, MongoDB
+
+✔ Developed a real-time video calling web application similar to Zoom & Google Meet
+✔ Implemented peer-to-peer video/audio communication using WebRTC
+✔ Integrated Socket.io for real-time signaling and room management
+✔ Enabled multi-user video conferencing with host controls
+✔ Designed responsive and user-friendly UI for seamless experience
+✔ Built secure authentication and meeting room functionality
+
+🔗 LIVE: https://novameet-rust.vercel.app/
+🔗 CODE: https://github.com/sanketpawar113/novameet
+
+---
 # 📊 GitHub Stats 
 
 <p align="center">
