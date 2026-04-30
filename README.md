@@ -68,7 +68,6 @@ const sanket = {
 ## ⭐ Featured Projects  
 
 ### 🔥 NovaMeet – Video Conferencing App  
-🚀 *Zoom / Google Meet Clone*
 
 ✔ Real-time video/audio communication using **WebRTC**  
 ✔ Multi-user conferencing with **host controls**  
