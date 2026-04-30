@@ -26,8 +26,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=sanketpawar113&label=Profile+Views&color=58a6ff&style=flat-square&labelColor=0d1117" />
 &nbsp;
-![Followers](https://img.shields.io/github/followers/sanketpawar113?label=Followers&style=flat-square&color=58a6ff&labelColor=0d1117)
-
 </div>
 
 ---
@@ -36,7 +34,7 @@
 
 ## ⚡ About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="300" src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=28&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Specialist;Real-Time+App+Builder;Backend+Engineer"/>
 
 ```typescript
 const sanket: Developer = {
