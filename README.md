@@ -34,14 +34,14 @@
 
 ## ⚡ About Me
 
-<img align="right" width="300" height="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+<img align="right" width="300" height="290" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
 
 ```typescript
 const sanket: Developer = {
   name       : "Sanket Prashant Pawar",
   location   : "Pimpri, Pune 🇮🇳",
   role       : "Full-Stack MERN Developer",
- funFact     : "I debug with console.log and I'm proud 😄",
+  funFact    : "I debug with console.log and I'm proud 😄",
 
   passionate : [
     "Clean Architecture",
