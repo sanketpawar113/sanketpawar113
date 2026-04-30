@@ -36,100 +36,73 @@ const sanket = {
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
 
-<div align="center">
+### 💻 Languages  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E018?logo=javascript&logoColor=black&style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+### 🎨 Frontend  
+![React](https://img.shields.io/badge/React-20232A?logo=react&style=for-the-badge)
+![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux&style=for-the-badge)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?logo=tailwindcss&style=for-the-badge)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### ⚙️ Backend  
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=node.js&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-000000?logo=express&style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🗄️ Database  
+![MongoDB](https://img.shields.io/badge/MongoDB-10AA50?logo=mongodb&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&style=for-the-badge)
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<br/>
-
-### ✈️ GO-TRAVEL — Full-Stack Travel Platform
-
-> *A production-ready travel listing platform with secure authentication, dynamic reviews, and optimized queries.*
-
-| | |
-|---|---|
-| **Tech** | Node.js · Express · MongoDB · EJS · Bootstrap |
-| **Auth** | JWT-based secure login & session management |
-| **Architecture** | MVC with RESTful API design |
-| **Features** | Listing CRUD · Reviews · Filtering · Input Validation · Error Handling |
-| **Deployed** | Render (Production) |
-
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-3fb950?style=for-the-badge)](https://go-travel-z5qh.onrender.com/listings)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-58a6ff?style=for-the-badge&logo=github)](https://github.com/sanketpawar113/GO-TRAVEL)
+### ☁️ DevOps  
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&style=for-the-badge)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge)
 
 ---
 
-### 🎥 NovaMeet — Real-Time Video Conferencing App
+## ⭐ Featured Projects  
 
-> *A Zoom-like video conferencing web app built with WebRTC and Socket.io for real-time peer-to-peer communication.*
+### 🔥 NovaMeet – Video Conferencing App  
+🚀 *Zoom / Google Meet Clone*
 
-| | |
-|---|---|
-| **Tech** | React · Node.js · Express · Socket.io · WebRTC · MongoDB |
-| **Real-Time** | Peer-to-peer video/audio via WebRTC |
-| **Signaling** | Socket.io for room management & events |
-| **Features** | Multi-user rooms · Host controls · Secure auth · Responsive UI |
-| **Deployed** | Vercel (Frontend) |
+✔ Real-time video/audio communication using **WebRTC**  
+✔ Multi-user conferencing with **host controls**  
+✔ **Socket.io** for signaling & live room updates  
+✔ Secure authentication & meeting rooms  
+✔ Clean, responsive UI  
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-3fb950?style=for-the-badge)](https://novameet-rust.vercel.app/)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-58a6ff?style=for-the-badge&logo=github)](https://github.com/sanketpawar113/novameet)
+🔗 **LIVE:** https://novameet-rust.vercel.app/  
+🔗 **CODE:** https://github.com/sanketpawar113/novameet  
 
 ---
 
-### 📝 Interactive Note App — Full-Stack CRUD Application
+### 🌍 GO-TRAVEL – Travel Platform  
 
-> *A clean, full-stack note-taking application with authentication and a responsive UI.*
+✔ Full-stack MVC architecture  
+✔ JWT authentication & secure APIs  
+✔ Dynamic listings, reviews & filtering  
+✔ Optimized database queries  
 
-| | |
-|---|---|
-| **Tech** | Node.js · Express · MongoDB · EJS · Bootstrap |
-| **Auth** | Full user authentication & session management |
-| **Features** | Create · Read · Update · Delete · REST API · Responsive design |
-| **Deployed** | Render |
+🔗 LIVE: https://go-travel-z5qh.onrender.com/listings  
+🔗 CODE: https://github.com/sanketpawar113/GO-TRAVEL  
 
-[![Live Demo](https://img.shields.io/badge/🌐%20Live%20Demo-3fb950?style=for-the-badge)](https://noteapp-tkj2.onrender.com/login)
-[![Source Code](https://img.shields.io/badge/⌥%20Source%20Code-58a6ff?style=for-the-badge&logo=github)](https://github.com/sanketpawar113/NoteApp)
+---
 
-<br/>
+### 📝 Interactive Note App  
 
+✔ Full CRUD app with authentication  
+✔ REST API integration  
+✔ Clean & responsive UI  
+
+🔗 LIVE: https://noteapp-tkj2.onrender.com/login  
+🔗 CODE: https://github.com/sanketpawar113/NoteApp  
+
+---
 ## 📊 GitHub Stats
 
 <div align="center">
